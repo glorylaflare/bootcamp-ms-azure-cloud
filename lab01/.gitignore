@@ -1,0 +1,44 @@
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+env/
+venv/
+ENV/
+VENV/
+*.env
+*.venv
+
+# Arquivos de log
+*.log
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Arquivos de build/distribuição
+build/
+dist/
+*.egg-info/
+
+# Arquivos de teste
+.coverage
+.cache/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+# Arquivos Jupyter
+*.ipynb_checkpoints
+
+# Dados sensíveis
+*.env
+.env.*
+
+# MyPy
+.mypy_cache/
+
+# Padrão para notebooks
+*.nbconvert.ipynb
