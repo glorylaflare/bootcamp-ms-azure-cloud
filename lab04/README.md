@@ -1,0 +1,3 @@
+## Observações sobre o projeto do LAB04:
+
+Muito interessante toda a proposta do desafio, principalmente com o auxílio do Copilot, mas entendendo que ele é um guia, mas que o dev precisa estar atento a problemas que podem acontecer ao longo do desenvolvimento com a utilização do Copilot. Sobre a disciplina, excelente esse projeto de validação de boleto, pois possibilita validar dados com a ajuda do Azure.
